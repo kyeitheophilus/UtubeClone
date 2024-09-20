@@ -66,6 +66,6 @@
 
 @media (max-width:900px) {
     .sidebar {
-        display: none; /* Hides sidebar on smaller screens */
+        display: block; /* Hides sidebar on smaller screens */
     }
 }
